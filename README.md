@@ -20,7 +20,7 @@ Hi! I am a UC Santa Barbara with a Bachelor's in Mathematics and a passion for d
 ## Contact Information
 
 - Email: bryannguyen1250@yahoo.com
-- LinkedIn: [https://www.linkedin.com/in/bryannguyen1250/]
-- Portfolio Website: [https://byngyn.github.io/]
+- LinkedIn: https://www.linkedin.com/in/bryannguyen1250/
+- Portfolio Website: https://byngyn.github.io/
 
 Feel free to reach out if you have any questions, collaboration opportunities, or if you'd like to connect!
