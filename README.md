@@ -13,6 +13,9 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 ### Project 1: Pokemon Database SQL Querying
 - In the Pokémon Database Query Project, I utilized a SQL-based solution to interact with a comprehensive Pokémon database and support competitive Pokémon players and enthusiasts in the Video Game Championships (VGC) scene. This project is dedicated to providing a comprehensive platform for querying and analyzing Pokémon data relevant to the VGC metagame, enabling players to make data-driven decisions in their competitive battles.
 
+### Project 1: SpaceX Analytical Report
+- The SpaceX Mission Data Analysis Project was a data-driven initiative undertaken to support SpaceX's mission success and cost optimization efforts. I leveraged my knowledge in data analytics and machine learning to extract actionable insights from SpaceX mission data and launch statistics, ultimately found possible contributions to the enhancement of mission success rates and cost efficiency.
+
 ## About Me
 
 Hi! I am a UC Santa Barbara with a Bachelor's in Mathematics and a passion for data science and data analytics.
