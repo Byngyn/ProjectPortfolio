@@ -6,7 +6,6 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 - [Projects](#projects)
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
-- [License](#license)
 
 ## Projects
 
