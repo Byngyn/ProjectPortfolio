@@ -9,7 +9,7 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 
 ## Projects
 
-### Project 1: Pokemon Database SQL Querying
+### Project 1: Pokemon Project: VGC Metagame Analysis
 - In this VGC Analysis Project, I curated and meticulously cleaned an extensive database of Pokémon abilities and statistics sourced from PokéAPI, and developed an interactive Pokémon dashboard using PowerBI. To offer VGC players profound insights, I implemented a range of SQL queries that sifted through the data, uncovering hidden patterns and correlations. These queries facilitated informed decisions when selecting optimal Pokémon for battles.
 
 ### Project 2: SpaceX Analytical Report
