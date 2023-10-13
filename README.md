@@ -15,6 +15,9 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 ### Project 2: SpaceX Analytical Report
 - The SpaceX Mission Data Analysis Project was a data-driven initiative undertaken to support SpaceX's mission success and cost optimization efforts. I leveraged my knowledge in data analytics and machine learning to extract actionable insights from SpaceX mission data and launch statistics, ultimately found possible contributions to the enhancement of mission success rates and cost efficiency.
 
+### Project 3: Data Survey PowerBI Breakdown
+- This Power BI dashboard offers a clear snapshot of data professional statistics from a survey. It features an interactive treemap showing participating countries, bar charts showcasing different data roles and favorite programming languages, and donut chart showing various percentages of how people felt breaking into the data field. It also includes multiple gaugues on happiness with work life balance and salary. The user-friendly interface ensures easy data exploration and informed decision-making for executives and analysts.
+
 ## About Me
 
 Hi! I am a UC Santa Barbara with a Bachelor's in Mathematics and a passion for data science and data analytics.
