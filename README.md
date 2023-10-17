@@ -23,7 +23,7 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 
 ## About Me
 
-Hi! I am a UC Santa Barbara with a Bachelor's in Mathematics and a passion for data science and data analytics.
+Hi! I am a recent UC Santa Barbara graduate with a bachelor's degree in mathematics, aspiring to work in the field of data analysis and data science.
 
 ## Contact Information
 
