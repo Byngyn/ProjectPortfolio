@@ -18,6 +18,9 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 ### Project 3: Data Survey PowerBI Breakdown
 - This Power BI dashboard offers a clear snapshot of data professional statistics from a survey. It features an interactive treemap showing participating countries, bar charts showcasing different data roles and favorite programming languages, and donut chart showing various percentages of how people felt breaking into the data field. It also includes multiple gaugues on happiness with work life balance and salary. The user-friendly interface ensures easy data exploration and informed decision-making for executives and analysts.
 
+### Project 4: Sales Management Analysis
+- In this sales management data analysis project, I performed comprehensive data cleaning and transformation of the AdventureWorks dataset using SQL. This process ensured the integrity and reliability of the data. Focused on assessing the relationship between sales performance and pertinent market indicators, I utilized Power BI's visualization and dashboarding features to create 3 interactive dashboards. This facilitated a thorough comprehension of sales and product trends, customer behavior, and market segments. The project's outcomes provided valuable insights for refining sales strategies and optimizing overall performance.
+
 ## About Me
 
 Hi! I am a UC Santa Barbara with a Bachelor's in Mathematics and a passion for data science and data analytics.
