@@ -21,6 +21,9 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 ### Project 4: Sales Management Analysis
 - Given a business request and criteria from the sales department, I created a dashboard that gave on overview on sales per customer and per product. The AdventureWorks dataset is extracted and cleaned in SQL to create fact and dimension tables for data modeling. Once cleaned, the data is saved into .csv files for use in Power BI. To provide emphasis on certain sales trends, three dashboards were created in Power BI. The Sales Overview dashboard gives general insights on KPIs and trends based on customer or product details. The Customer Details and Product Details dashboards focused on sales per customer and sales per product.
 
+### Project 5: Street Fighter AI
+- This project was done in an Anaconda Environment, and used libraries such as Gym, Gym Retro, Optuna, and Stable Baselines3. A custom environment was created to start an instance of Street Fighter, record the score, preprocess the data, and implement the reward function. Then, optuna was used to study the optimization loop, which was created with Stable Baselines3. This is as hyper parameter tuning in order to get the best parameteres for training. Once the experiment is finished, the best performing trial's parameters are used to train the model, and Tensorboard was used to track its progress. Once finished, we can view the results by calling loading an instance of the best performing Street Fighter environment.
+
 ## About Me
 
 Hi! I am a recent UC Santa Barbara graduate with a bachelor's degree in mathematics, aspiring to work in the field of data analysis and data science.
