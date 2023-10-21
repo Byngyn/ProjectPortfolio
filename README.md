@@ -14,7 +14,7 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 
 ### Project 2: SpaceX Analytical Report
 - This is a capstone project for the IBM Data Science Professional Certificate. It is an end-to-end project where I take the role as a data scientist tasked with data cleaning, data transforming, visualizations, analysis and machine learning. The purpose of this project is to calculate the SpaceX rocket launch success rates based on certain factors. At the end of the project, a powerpoint was created to showcase our findings to business leaders and stakeholders. The data was taken from the SpaceX API, which was then transformed and loaded into .csv files. Data exploration was done in SQLite as well as Folium for gaining insights on geographical trends. Then, a dashboard app was created using Plotly and Dash to visualize the data. Finally, by utilizing sci-kit learn, we can predict the launch site success rates.
-- 
+
 ### Project 3: Data Survey PowerBI Breakdown
 - A survey was taken by more than 600 data professionals to record their thoughts on the data industry, how happy they are with their job and salary, their favorite programming langauges, and more. Demographic information was also recorded in this survey. In order to clean the data, Power Query was used to correct data types and handle missing values. The visualizations in the dashboard consists of survey responses compared to certain demographics. For example, stacked column chart is favorite programming language by different data roles. There also also visualizations showing average age and happiness amoung participants.
 
