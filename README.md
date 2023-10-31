@@ -24,6 +24,10 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 ### Project 5: Street Fighter AI
 - This project was done in an Anaconda Environment, and used libraries such as Gym, Gym Retro, Optuna, and Stable Baselines3. A custom environment was created to start an instance of Street Fighter, record the score, preprocess the data, and implement the reward function. Then, optuna was used to study the optimization loop, which was created with Stable Baselines3. This is as hyper parameter tuning in order to get the best parameteres for training. Once the experiment is finished, the best performing trial's parameters are used to train the model, and Tensorboard was used to track its progress. Once finished, we can view the results by calling loading an instance of the best performing Street Fighter environment.
 
+### Project 6: League of Legends Worlds 2022 Dashboard
+- These dashboards were created to explore the data analytics side of esports suing SQL and Power BI. This dataset included extensive statistics of teams, players, and champions form the 2022 League World Championship. The data was first cleaned comprehensively in MS SQL Server to correct data type errors and standardizing column names.
+Using this refined data, Power BI dashboards were made to provide insights on the most popular and best performing champions, players, and teams in the championship. Clustered bar charts were used to visualize and compare multiple, related stats at a glance. Standout performances and key insights were also highlighted for each page of the dashboard. A navigation bar was integrated, ensuring a seamless and intuitive experience for viewers.
+
 ## About Me
 
 Hi! I am a recent UC Santa Barbara graduate with a bachelor's degree in mathematics, aspiring to work in the field of data analysis and data science.
