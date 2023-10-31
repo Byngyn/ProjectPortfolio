@@ -4,7 +4,7 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 
 ## Table of Contents
 - [Projects](#projects)
-- - [Project 1]
+  - [Project 1]
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
 
