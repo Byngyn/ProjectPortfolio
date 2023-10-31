@@ -4,13 +4,13 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 
 ## Table of Contents
 - [Projects](#projects)
-  - [Project 1]
+  - [Project 1: VGC Metagame Analysis](#project-1:-vgc-metagame-analysis)
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
 
 ## Projects
 
-### Project 1: Pokemon Project: VGC Metagame Analysis
+### Project 1: VGC Metagame Analysis
 - The purpose of this project is to create an interactive dashbaord using Power BI that filters by Pokemon, and generate visualizations that assist VGC competitive players to create a strategy. Firstly, SQL queries were created on an example dataset containing Pokemon statistics and characteristics to observe trends and figure out important/relevant data. Using this info, the necessary data can be extracted from the PokeAPI using Python. After cleaning, transforming, and modeling the data in Power BI, a dashboard was created to display certain stats, typings, possible movesets, and more.
 
 ### Project 2: SpaceX Analytical Report
