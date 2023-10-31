@@ -1,9 +1,10 @@
 # Project Portfolio
 
-Welcome to my project portfolio repository! This repository serves as a collection of various projects I have worked on, showcasing my skills, interests, and experiences in the world of technology and software development.
+Welcome to my project portfolio repository! This repository serves as a collection of various projects I have worked on, showcasing my skills, interests, and experiences in the world of technology and software development, and data analytics.
 
 ## Table of Contents
 - [Projects](#projects)
+- - [Project 1]
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
 
