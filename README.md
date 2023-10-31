@@ -4,7 +4,12 @@ Welcome to my project portfolio repository! This repository serves as a collecti
 
 ## Table of Contents
 - [Projects](#projects)
-  - [Project 1: VGC Metagame Analysis](#project-1:-vgc-metagame-analysis)
+  - Project 1: VGC Metagame Analysis
+  - Project 2: SpaceX Analytical Report
+  - Project 3: Data Survey PowerBI Breakdown
+  - Project 4: Sales Management Analysis
+  - Project 5: Street Fighter AI
+  - Project 6: League of Legends Worlds 2022 Dashboard
 - [About Me](#about-me)
 - [Contact Information](#contact-information)
 
